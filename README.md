@@ -6,19 +6,19 @@
  * Sqlite
  
  # Admin
-    * Login
-    * Add Student
-    * Delete Student
-    * Update Student
-    * Add Notice
-    * Delete Notice
-    * Update Notice
-    * LogOut
+   * Login
+   * Add Student
+   * Delete Student
+   * Update Student
+   * Add Notice
+   * Delete Notice
+   * Update Notice
+   * LogOut
  # Student
-    * Login
-    * Change Password
-    * View Notice
-    * LogOut
+   * Login
+   * Change Password
+   * View Notice
+   * LogOut
     
  # Screenshorts
    
